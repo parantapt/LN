@@ -1,8 +1,4 @@
-/*!
- * Start Bootstrap - Grayscale Bootstrap Theme (http://startbootstrap.com)
- * Code licensed under the Apache License v2.0.
- * For details, see http://www.apache.org/licenses/LICENSE-2.0.
- */
+
 
 body {
     width: 100%;
@@ -146,8 +142,8 @@ a:focus {
     height: auto;
     padding: 100px 0;
     text-align: center;
-    color: #fff;
-    background: url(../img/intro-bg.jpg) no-repeat bottom center scroll;
+    color: #FFF;
+    background: url(http://cdn2.editmysite.com/images/editor/theme-background/stock/Working2.jpg) no-repeat bottom center scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
